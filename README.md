@@ -20,7 +20,13 @@ YouTube Video Summarizer is a Python script that takes a YouTube video URL as in
 
 ## Configuration
 
-The script requires an active internet connection to access YouTube and retrieve the transcript. Make sure you have the required Python packages installed (specified in `requirements.txt`).
+The script requires an active internet connection to access YouTube and retrieve the transcript. Make sure you have the required Python packages installed 
+1. Python version=3.10
+2. openai
+3. langchain
+4. youtube-transcript-api(for Linux and MacOS)
+5. tiktoken
+6. openai key
 
 
 Happy summarizing!
