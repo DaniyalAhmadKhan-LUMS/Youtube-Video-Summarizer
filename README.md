@@ -12,7 +12,7 @@ YouTube Video Summarizer is a Python script that takes a YouTube video URL as in
 
 1. Run the `YouTube_Video_Summarizer.ipynb` script and provide the YouTube video URL as an argument:
 
-(Replace "VIDEO_ID" with the actual YouTube video ID.)
+   (Replace "VIDEO_ID" with the actual YouTube video ID.)
 
 2. The script will extract the YouTube video ID, fetch the transcript, and store it as a text document.
 
