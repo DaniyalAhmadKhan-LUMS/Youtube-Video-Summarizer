@@ -18,7 +18,7 @@ YouTube Video Summarizer is a Python script that takes a YouTube video URL as in
 
 3. The script will then generate a summary of the video's content and display it on the console.
 
-## Configuration
+## Environment Setup
 
 The script requires an active internet connection to access YouTube and retrieve the transcript. Make sure you have the required Python packages installed 
 1. Python version=3.10
