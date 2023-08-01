@@ -5,7 +5,7 @@ YouTube Video Summarizer is a Python script that takes a YouTube video URL as in
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Install the required Python packages by running the following command:
+2. Install the required Python packages.
 
 
 ## Usage
